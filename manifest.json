@@ -1,0 +1,21 @@
+{
+  "name": "Chrome Desaturated",
+  "version": "1.0",
+  "description": "",
+  "manifest_version": 2,
+  "theme": {
+    "colors": {
+      "frame": [30, 39, 55],
+      "toolbar": [57, 70, 94],
+      "tab_text": [255, 249, 238],
+      "tab_background_text": [255, 249, 238],
+      "bookmark_text": [255, 249, 238],
+      "ntp_background": [33, 32, 42],
+      "ntp_section": [30, 39, 55],
+      "ntp_text": [255, 249, 238],
+      "ntp_link": [127, 243, 254],
+      "button_background": [182, 144, 255, 1]
+    },
+    "tints": { "buttons": [0.39, 0.48, 1] }
+  }
+}
