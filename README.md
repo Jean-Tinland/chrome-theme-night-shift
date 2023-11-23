@@ -1,4 +1,4 @@
-# Night shift (Desaturated) theme for Google Chrome
+# Night shift theme for Google Chrome
 
 This is a port of my [Night Shift theme](https://github.com/Jean-Tinland/vscode-theme-desaturated) for Visual Studio Code.\
 You'll find an iTerm2 color scheme [here](https://github.com/Jean-Tinland/iTerm2-theme-desaturated).
